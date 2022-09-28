@@ -37,7 +37,7 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_frak_complex/releases/download/v2/bagitDump-v2.zip">Current version download: bagitDump-v2.zip</a>
+         <a href="https://github.com/tboenig/16_frak_complex/releases/download/v3/bagitDump-v3.zip">Current version download: bagitDump-v3.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_frak_complex/releases">Version archive</a>
@@ -56,6 +56,16 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                   <dd>TextLine</dd>
                   <dt>Page</dt>
                   <dd>Page</dd>
+                  <dt>TxtRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
+                        target="_blank">TextRegion</a>
+                  </dd>
+                  <dt>GraphRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyGraphik.html"
+                        target="_blank">GraphicRegion</a>
+                  </dd>
                </dl>
             </details>
          </td>
@@ -67,6 +77,12 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                <button onclick="document.getElementById('table_id').classList.toggle('hide2')">
                   <i>Page</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
+                  <i>TxtRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
+                  <i>GraphRegion</i>
+               </button>
             </div>
          </td>
       </tr>
@@ -76,12 +92,16 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>279</td>
+            <td>10</td>
+            <td>55</td>
+            <td>28</td>
          </tr>
       </tbody>
    </table>
