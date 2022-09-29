@@ -98,7 +98,7 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/16_frak_complex/releases/download/v6/bagitDump-v6.zip">Current version download: bagitDump-v6.zip</a>
+         <a href="https://github.com/tboenig/16_frak_complex/releases/download/v7/bagitDump-v7.zip">Current version download: bagitDump-v7.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/16_frak_complex/releases">Version archive</a>
