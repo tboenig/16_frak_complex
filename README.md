@@ -68,25 +68,6 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
             </thead>
             <tbody>
                <tr>
-                  <td>aventinus_grammatica_1515</td>
-                  <td>29</td>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>129</td>
-                  <td>3</td>
-               </tr>
-               <tr>
                   <td>luther_babstum_1526</td>
                   <td>7</td>
                   <td/>
@@ -106,14 +87,11 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                   <td>2</td>
                </tr>
                <tr>
-                  <td>petrarca_psalmi_1506</td>
-                  <td>13</td>
+                  <td>aventinus_grammatica_1515</td>
+                  <td>29</td>
                   <td/>
                   <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>20</td>
                   <td/>
                   <td/>
                   <td/>
@@ -121,7 +99,10 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                   <td/>
                   <td/>
                   <td/>
-                  <td>64</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>129</td>
                   <td>3</td>
                </tr>
                <tr>
@@ -142,6 +123,25 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                   <td/>
                   <td>35</td>
                   <td>2</td>
+               </tr>
+               <tr>
+                  <td>petrarca_psalmi_1506</td>
+                  <td>13</td>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>64</td>
+                  <td>3</td>
                </tr>
             </tbody>
          </table>
