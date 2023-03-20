@@ -194,6 +194,97 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
          </thead>
          <tbody>
             <tr>
+               <th>luther_babstum_1526</th>
+               <td>51</td>
+               <td>2</td>
+               <td>7</td>
+               <td>0</td>
+               <td>0</td>
+               <td>2</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/luther_babstum_1526/GT-PAGE/luther_babstum_1526_0010.xml">luther_babstum_1526_0010.xml</a>
+                           </td>
+                           <td>32</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/luther_babstum_1526/GT-PAGE/luther_babstum_1526_0011.xml">luther_babstum_1526_0011.xml</a>
+                           </td>
+                           <td>19</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
                <th>aventinus_grammatica_1515</th>
                <td>129</td>
                <td>3</td>
@@ -261,27 +352,6 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/aventinus_grammatica_1515/GT-PAGE/aventinus_grammatica_1515_0008.xml">aventinus_grammatica_1515_0008.xml</a>
-                           </td>
-                           <td>54</td>
-                           <td>1</td>
-                           <td>8</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>10</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
                               <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/aventinus_grammatica_1515/GT-PAGE/aventinus_grammatica_1515_0006.xml">aventinus_grammatica_1515_0006.xml</a>
                            </td>
                            <td>26</td>
@@ -301,198 +371,16 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                            <td>0</td>
                            <td>0</td>
                         </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>luther_babstum_1526</th>
-               <td>51</td>
-               <td>2</td>
-               <td>7</td>
-               <td>0</td>
-               <td>0</td>
-               <td>2</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/luther_babstum_1526/GT-PAGE/luther_babstum_1526_0011.xml">luther_babstum_1526_0011.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/aventinus_grammatica_1515/GT-PAGE/aventinus_grammatica_1515_0008.xml">aventinus_grammatica_1515_0008.xml</a>
                            </td>
-                           <td>19</td>
+                           <td>54</td>
                            <td>1</td>
-                           <td>5</td>
+                           <td>8</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/luther_babstum_1526/GT-PAGE/luther_babstum_1526_0010.xml">luther_babstum_1526_0010.xml</a>
-                           </td>
-                           <td>32</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>petrarca_psalmi_1506</th>
-               <td>64</td>
-               <td>3</td>
-               <td>13</td>
-               <td>0</td>
-               <td>0</td>
-               <td>5</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0010.xml">petrarca_psalmi_1506_0010.xml</a>
-                           </td>
-                           <td>33</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0012.xml">petrarca_psalmi_1506_0012.xml</a>
-                           </td>
-                           <td>25</td>
-                           <td>1</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0016.xml">petrarca_psalmi_1506_0016.xml</a>
-                           </td>
-                           <td>6</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
+                           <td>10</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -584,6 +472,118 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>petrarca_psalmi_1506</th>
+               <td>64</td>
+               <td>3</td>
+               <td>13</td>
+               <td>0</td>
+               <td>0</td>
+               <td>5</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0016.xml">petrarca_psalmi_1506_0016.xml</a>
+                           </td>
+                           <td>6</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0012.xml">petrarca_psalmi_1506_0012.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/main/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0010.xml">petrarca_psalmi_1506_0010.xml</a>
+                           </td>
+                           <td>33</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
