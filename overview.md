@@ -134,25 +134,6 @@
    </thead>
    <tbody>
       <tr>
-         <th>luther_babstum_1526_0010.xml</th>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>32</td>
-         <td>1</td>
-      </tr>
-      <tr>
          <th>luther_babstum_1526_0011.xml</th>
          <td>5</td>
          <td>0</td>
@@ -172,11 +153,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>aventinus_grammatica_1515_0007.xml</th>
-         <td>17</td>
-         <td>0</td>
-         <td>0</td>
-         <td>9</td>
+         <th>luther_babstum_1526_0010.xml</th>
+         <td>2</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -187,7 +165,10 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>49</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>32</td>
          <td>1</td>
       </tr>
       <tr>
@@ -226,6 +207,25 @@
          <td>0</td>
          <td>0</td>
          <td>54</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>aventinus_grammatica_1515_0007.xml</th>
+         <td>17</td>
+         <td>0</td>
+         <td>0</td>
+         <td>9</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>49</td>
          <td>1</td>
       </tr>
       <tr>
@@ -286,25 +286,6 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>petrarca_psalmi_1506_0012.xml</th>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>25</td>
-         <td>1</td>
-      </tr>
-      <tr>
          <th>petrarca_psalmi_1506_0010.xml</th>
          <td>5</td>
          <td>0</td>
@@ -321,6 +302,25 @@
          <td>0</td>
          <td>0</td>
          <td>33</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>petrarca_psalmi_1506_0012.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>25</td>
          <td>1</td>
       </tr>
    </tbody>

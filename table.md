@@ -240,14 +240,14 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.0.0/data/luther_babstum_1526/GT-PAGE/luther_babstum_1526_0010.xml">luther_babstum_1526_0010.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.1.0/data/luther_babstum_1526/GT-PAGE/luther_babstum_1526_0011.xml">luther_babstum_1526_0011.xml</a>
                            </td>
-                           <td>32</td>
+                           <td>19</td>
                            <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -261,14 +261,14 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.0.0/data/luther_babstum_1526/GT-PAGE/luther_babstum_1526_0011.xml">luther_babstum_1526_0011.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.1.0/data/luther_babstum_1526/GT-PAGE/luther_babstum_1526_0010.xml">luther_babstum_1526_0010.xml</a>
                            </td>
-                           <td>19</td>
+                           <td>32</td>
                            <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
                            <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -331,28 +331,7 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.0.0/data/aventinus_grammatica_1515/GT-PAGE/aventinus_grammatica_1515_0007.xml">aventinus_grammatica_1515_0007.xml</a>
-                           </td>
-                           <td>49</td>
-                           <td>1</td>
-                           <td>17</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>9</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.0.0/data/aventinus_grammatica_1515/GT-PAGE/aventinus_grammatica_1515_0006.xml">aventinus_grammatica_1515_0006.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.1.0/data/aventinus_grammatica_1515/GT-PAGE/aventinus_grammatica_1515_0006.xml">aventinus_grammatica_1515_0006.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -373,7 +352,7 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.0.0/data/aventinus_grammatica_1515/GT-PAGE/aventinus_grammatica_1515_0008.xml">aventinus_grammatica_1515_0008.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.1.0/data/aventinus_grammatica_1515/GT-PAGE/aventinus_grammatica_1515_0008.xml">aventinus_grammatica_1515_0008.xml</a>
                            </td>
                            <td>54</td>
                            <td>1</td>
@@ -381,6 +360,27 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                            <td>0</td>
                            <td>0</td>
                            <td>10</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.1.0/data/aventinus_grammatica_1515/GT-PAGE/aventinus_grammatica_1515_0007.xml">aventinus_grammatica_1515_0007.xml</a>
+                           </td>
+                           <td>49</td>
+                           <td>1</td>
+                           <td>17</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>9</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -443,7 +443,7 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.0.0/data/nn_historia_1500/GT-PAGE/nn_historia_1500_0007.xml">nn_historia_1500_0007.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.1.0/data/nn_historia_1500/GT-PAGE/nn_historia_1500_0007.xml">nn_historia_1500_0007.xml</a>
                            </td>
                            <td>5</td>
                            <td>1</td>
@@ -464,7 +464,7 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.0.0/data/nn_historia_1500/GT-PAGE/nn_historia_1500_0009.xml">nn_historia_1500_0009.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.1.0/data/nn_historia_1500/GT-PAGE/nn_historia_1500_0009.xml">nn_historia_1500_0009.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -534,7 +534,7 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.0.0/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0016.xml">petrarca_psalmi_1506_0016.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.1.0/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0016.xml">petrarca_psalmi_1506_0016.xml</a>
                            </td>
                            <td>6</td>
                            <td>1</td>
@@ -555,14 +555,14 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.0.0/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0012.xml">petrarca_psalmi_1506_0012.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.1.0/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0010.xml">petrarca_psalmi_1506_0010.xml</a>
                            </td>
-                           <td>25</td>
+                           <td>33</td>
                            <td>1</td>
-                           <td>7</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -576,14 +576,14 @@ font blackletter, two-columned, hand-written additions, stamps, partly tabular-l
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.0.0/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0010.xml">petrarca_psalmi_1506_0010.xml</a>
+                              <a href="https://github.com/tboenig/16_frak_complex/blob/v1.1.0/data/petrarca_psalmi_1506/GT-PAGE/petrarca_psalmi_1506_0012.xml">petrarca_psalmi_1506_0012.xml</a>
                            </td>
-                           <td>33</td>
+                           <td>25</td>
                            <td>1</td>
-                           <td>5</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>3</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
